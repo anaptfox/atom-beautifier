@@ -1,5 +1,5 @@
 {
-  "name": "/atom-beautifier",
+  "name": "atom-beautifier",
   "main": "./lib/beautifier",
   "version": "0.1.0",
   "private": true,
