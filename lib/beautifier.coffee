@@ -1,7 +1,7 @@
 module.exports =
 
   activate: ->
-    atom.workspaceView.command "atom-beautifier:convert", => @convert()
+    atom.workspaceView.command "beautifier:convert", => @convert()
 
   convert: ->
     editor = atom.workspace.activePaneItem

@@ -1,11 +1,11 @@
 {
-  "name": "atom-beautifier",
-  "main": "./lib/atom-beautifier",
+  "name": "/atom-beautifier",
+  "main": "./lib/beautifier",
   "version": "0.1.0",
   "private": true,
-  "description": "A short description of your package",
+  "description": "Beautifier for Atom",
   "activationEvents": [
-    "atom-beautifier:convert"
+    "beautifier:convert"
   ],
   "repository": "https://github.com/taronfoxworth/atom-beautifier",
   "license": "MIT",
