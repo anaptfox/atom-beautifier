@@ -1,3 +1,7 @@
-# js-pretty package
+# Atom beautifier
 
-A short description of your package.
+A beautifier for [Atom.io](Atom.io).
+
+Supports:
+  Javascript
+  More coming soon...
