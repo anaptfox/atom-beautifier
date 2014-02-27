@@ -1,0 +1,19 @@
+{
+  "name": "atom-beautifier",
+  "main": "./lib/atom-beautifier",
+  "version": "0.0.0",
+  "private": true,
+  "description": "A short description of your package",
+  "activationEvents": [
+    "atom-beautifier:convert"
+  ],
+  "repository": "https://github.com/taronfoxworth/atom-beautifier",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "js-beautify": "~1.4.2",
+    "pathwatcher": "~0.16.0"
+  }
+}
