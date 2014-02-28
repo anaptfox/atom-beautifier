@@ -6,4 +6,8 @@ Supports:
 
   Javascript
 
+  HTML
+
+  CSS
+
   More coming soon...
