@@ -16,7 +16,6 @@
     "atom": ">0.50.0"
   },
   "dependencies": {
-    "js-beautify": "~1.4.2",
-    "pathwatcher": "~0.16.0"
+    "js-beautify": "~1.4.2"
   }
 }
