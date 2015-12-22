@@ -1,8 +1,11 @@
+#DEPRECIATED
+
+Please use: https://atom.io/packages/atom-beautify
+It's much better :)
+
 # Atom beautifier
 
 A beautifier for [Atom.io](Atom.io).
-
-
 
 Supports:
 
